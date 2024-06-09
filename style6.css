@@ -11,6 +11,8 @@ body {
 
 .container {
     text-align: center;
+     height: 30vh;
+    background-color: wheat;
 }
 
 #display {
